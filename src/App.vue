@@ -6,7 +6,7 @@
       
     >
       <div class="d-flex align-center white--text font-weight-black">
-       MAGIC WOLVES ONLINE COACHING PROGRAM
+       MAGIC WOLF'S ONLINE COACHING PROGRAM
       </div>
 
     </v-app-bar>
