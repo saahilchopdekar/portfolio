@@ -13,7 +13,6 @@ try {
     return origCreateHash(alg === 'md4' ? 'md5' : alg, opts);
   };
 }
-
 module.exports = {
   transpileDependencies: [
     'vuetify'
